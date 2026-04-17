@@ -1,10 +1,21 @@
-Calculadora en python
-  Funciones
+#  Calculadora en python
+ Aplicacion de consola desarrollada en Python que permite realizar operaciones matematicas basicas.
+
+## Funcionalidades
+
 * Suma
 * Resta
 * Multiplicavion 
 * Division
+* Menu interactivo
 
-## Como usar 
-Ejecutar:
-python calculadora .py
+## tecnologias
+
+* Python
+
+## Como ejecutar
+ 
+``` bash
+python calculadora.py
+
+  AUTOR: CARLOS ACOSTA
