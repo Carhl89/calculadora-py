@@ -1,5 +1,10 @@
-Calculador simple de consola
- Objetivo
-* Pida 2 numeros
-* Pida una operacion (+,-,*,/)
-* Muestre resultado
+Calculadora en python
+  Funciones
+* Suma
+* Resta
+* Multiplicavion 
+* Division
+
+## Como usar 
+Ejecutar:
+python calculadora .py
